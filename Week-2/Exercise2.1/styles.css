@@ -20,15 +20,16 @@
     height: 10vh;
     background-color: lightcoral;
     position: fixed;
+    display: block;
 }
 .headerContent {
     text-align: center;
     padding: 3vh 0;
 }
 
-.mainArticleContainer{
-    display: inline-block;
-    
+.container{
+ 
+    display: block;
 }
 
 footer {
